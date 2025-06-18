@@ -10,7 +10,7 @@
 
 <h2>🚀 Live Demo</h2>
 <p>
-👉 <a href="https://your-live-demo-link.com" target="_blank">Click here to try the Drum + Voice Studio live</a>
+👉 <a href="https://abhilash1777.github.io/Drum_Machine/" target="_blank">Click here to try the Drum Machine live</a>
 </p>
 
 <hr>
